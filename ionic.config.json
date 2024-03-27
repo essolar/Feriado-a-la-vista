@@ -1,0 +1,7 @@
+{
+  "name": "Feriados-app",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
