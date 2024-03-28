@@ -1,0 +1,162 @@
+[
+    {
+      "nombre": "Año Nuevo",
+      "comentarios": null,
+      "fecha": "2024-01-01",
+      "irrenunciable": "1",
+      "tipo": "Civil",
+      "ley" : "Ley 2.977, Ley 19.973"
+    },
+    {
+      "nombre": "Viernes Santo",
+      "comentarios": null,
+      "fecha": "2024-03-29",
+      "irrenunciable": "0",
+      "tipo": "Religioso",
+      "ley" : "Ley 2.977"
+    },
+    {
+      "nombre": "Sábado Santo",
+      "comentarios": null,
+      "fecha": "2024-03-30",
+      "irrenunciable": "0",
+      "tipo": "Religioso",
+      "ley" : "Ley 2.977"
+    },
+    {
+      "nombre": "Día Nacional del Trabajo",
+      "comentarios": null,
+      "fecha": "2024-05-01",
+      "irrenunciable": "1",
+      "tipo": "Civil",
+      "ley" : "Código del Trabajo, Ley 19.973"
+    },
+    {
+      "nombre": "Día de las Glorias Navales",
+      "comentarios": null,
+      "fecha": "2024-05-21",
+      "irrenunciable": "1",
+      "tipo": "Civil",
+      "ley":"Ley 2.977"
+    },
+    {
+      "nombre": "Elecciones Primarias Alcaldes y Gobernadores",
+      "comentarios": "Por Confirmar",
+      "fecha": "2024-06-09",
+      "irrenunciable": "1",
+      "tipo": "Civil",
+      "ley":"Ley 18.700, Ley 19.973"
+    },
+    {
+      "nombre": "Día Nacional de los Pueblos Indígenas",
+      "comentarios": null,
+      "fecha": "2024-06-20",
+      "irrenunciable": "0",
+      "tipo": "Civil",
+      "ley":"Ley 21.357"
+    },
+    {
+      "nombre": "San Pedro y San Pablo",
+      "comentarios":null,
+      "fecha": "2024-06-29",
+      "irrenunciable": "0",
+      "tipo": "Religioso",
+      "ley":"Ley 2.977, Ley 18.432, Ley 19.668"
+    },
+    {
+      "nombre": "Día de la Virgen del Carmen",
+      "comentarios": null,
+      "fecha": "2024-07-16",
+      "irrenunciable": "0",
+      "tipo": "Religioso",
+      "ley":"Ley 20.148"
+    },
+    {
+      "nombre": "Asunción de la Virgen",
+      "comentarios": null,
+      "fecha": "2024-08-15",
+      "irrenunciable": "0",
+      "tipo": "Religioso",
+      "ley":"Ley 2.977"
+    },
+    {
+      "nombre": "Independencia Nacional",
+      "comentarios": null,
+      "fecha": "2024-09-18",
+      "irrenunciable": "1",
+      "tipo": "Civil",
+      "ley":"Ley 2.977, Ley 19.973"
+    },
+    {
+      "nombre": "Día de las Glorias del Ejército",
+      "comentarios": null,
+      "fecha": "2024-09-19",
+      "irrenunciable": "1",
+      "tipo": "Civil",
+      "ley":"Ley 2.977, Ley 20.629"
+    },
+    {
+      "nombre": "Feriado Adicional Fiestas Patrias",
+      "comentarios": null,
+      "fecha": "2024-09-20",
+      "irrenunciable": "0",
+      "tipo": "Civil",
+      "ley":"Ley 20.215"
+    },
+    {
+      "nombre": "Encuentro de Dos Mundos",
+      "comentarios": null,
+      "fecha": "2024-10-12",
+      "irrenunciable": "0",
+      "tipo": "Civil",
+      "ley":"Ley 3.810, Ley 19.668"
+    },
+    {
+      "nombre": "Elecciones Municipales, Consejeros Regionales y Gobernadores Regionales",
+      "comentarios": null,
+      "fecha": "2024-10-27",
+      "irrenunciable": "1",
+      "tipo": "Civil",
+      "ley":"Ley 18.700, Ley 19.973"
+    },
+    {
+      "nombre": "Día de las Iglesias Evangélicas y Protestantes",
+      "comentarios": null,
+      "fecha": "2024-10-31",
+      "irrenunciable": "0",
+      "tipo": "Religioso",
+      "ley":"Ley 20.148"
+    },
+    {
+      "nombre": "Día de Todos los Santos",
+      "comentarios": null,
+      "fecha": "2024-11-01",
+      "irrenunciable": "0",
+      "tipo": "Religioso",
+      "ley":"Ley 2.977"
+    },
+    {
+      "nombre": "Segunda Vuelta Elección Gobernadores Regionales",
+      "comentarios": null,
+      "fecha": "2024-11-24",
+      "irrenunciable": "1",
+      "tipo": "Civil",
+      "ley":"Ley 20.148"
+    },
+    {
+      "nombre": "Inmaculada Concepción",
+      "comentarios": null,
+      "fecha": "2024-12-08",
+      "irrenunciable": "0",
+      "tipo": "Religioso",
+      "ley":"Ley 2.977"
+    },
+    {
+      "nombre": "Navidad",
+      "comentarios": null,
+      "fecha": "2024-12-25",
+      "irrenunciable": "1",
+      "tipo": "Religioso",
+      "ley":"Ley 2.977, Ley 19.973"
+    }
+  ]
